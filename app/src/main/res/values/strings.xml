@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Birthday Card</string>
+    <string name="happy_birthday_title">Happy Birthday</string>
+    <string name="happy_birthday_text_bottom">From Emma.</string>
+    <string name="happy_birthday_text_top">Happy Birthday, Sam</string>
+    <string name="your_project_name">Your Project Name</string>
+    <string name="todo">TODO</string>
 </resources>
